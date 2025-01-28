@@ -64,8 +64,10 @@ install tailwindcss
 ```
 
 ## Video Demo
-![Video Demo](file:///home/muhammad-ahmad-nadeem/Projects/E-commerce-web/resources/s5ywjqscyr2zztugynlw.mp4)
-
+<video width="600" controls>
+  <source src="file:///home/muhammad-ahmad-nadeem/Projects/E-commerce-web/resources/s5ywjqscyr2zztugynlw.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 [View the demo video](#)
 
